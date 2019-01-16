@@ -15,6 +15,7 @@ namespace ConsoleApp1
         }
     }
 
+    
     class newClass
     {
         public static int howManyObjects = 0;
